@@ -13,4 +13,4 @@ dependencies:
   - ipywidgets=7
   - qgrid
   - plotly
-- beakerx
+  - beakerx
